@@ -7,3 +7,5 @@ The project mainly focus on
 
 Player will play as a wooloo and collect all the pokeball in the scene while dodging the falling rocks.
 
+Full Video:
+https://youtu.be/zVz6vX4YYgU
