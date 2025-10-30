@@ -10,4 +10,4 @@ Player will play as a wooloo and collect all the pokeball in the scene while dod
 ![](ajm_2.gif)
 
 Full Video:
-https://youtu.be/zVz6vX4YYgU
+https://youtu.be/0OnprWdLFgA?si=9ssmya-buEzOtZBc
